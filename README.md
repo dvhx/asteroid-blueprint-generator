@@ -1,4 +1,4 @@
-Generate blueprint of random asteroid with random mineral composition
+Generate blueprint of random asteroid with random mineral composition. Intended for use in asteroid mining games.
 
 [<img src="image/example.png">](https://dvhx.github.io/asteroid-blueprint-generator/index.html)
 
